@@ -16,12 +16,14 @@ public class Gewicht extends Applet {
 		g.drawString("Valerie", 20, 220);
 		g.drawString("Hans", 80, 220);
 		g.drawString("Jeroen", 140, 220);
+		//gewicht bars
 		g.setColor(Color.YELLOW);
 		g.fillRect(25, 160, 25, 40);
 		g.setColor(Color.BLUE);
 		g.fillRect(80, 120, 25, 80);
 		g.setColor(Color.RED);
 		g.fillRect(140, 100, 25, 100);
+		//lijn verdeling en text
 		g.setColor(Color.black);
 		g.drawLine(25, 180, 250, 180);
 		g.drawString("20", 1, 180);
