@@ -7,7 +7,7 @@ import java.applet.*;
 public class Driehoek extends Applet {
 
 	public void init(){
-		
+		setSize(220,220);
 	}
 	public void paint(Graphics g){
 		g.setColor(Color.black);

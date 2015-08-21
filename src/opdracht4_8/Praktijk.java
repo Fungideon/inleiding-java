@@ -6,7 +6,7 @@ import java.awt.*;
 public class Praktijk extends Applet {
 	
 	public void init(){
-		setSize(750,270);
+		setSize(550,270);
 	}
 	
 	public void paint (Graphics g){

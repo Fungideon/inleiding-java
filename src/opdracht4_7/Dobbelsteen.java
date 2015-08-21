@@ -6,7 +6,7 @@ import java.awt.*;
 public class Dobbelsteen extends Applet {
 	
 	public void init(){
-		setSize(500,500);
+		setSize(300,300);
 		
 	}
 	
